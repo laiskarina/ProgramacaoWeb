@@ -1,0 +1,14 @@
+h1 {
+    font-size: 60px;
+    color: red;
+}
+
+p {
+    text-align: 25px;
+    color: blue;
+    font-size: 30px;
+}
+
+body {
+    background-color: rgb (118, 71, 150);
+}
